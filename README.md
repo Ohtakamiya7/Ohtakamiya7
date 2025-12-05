@@ -1,6 +1,6 @@
 ## Hi there, I'm Ohta 👋
 
-I'm a Computer Science junior at Case Western Reserve University, focusing on **Software Engineering**, **AI/ML**, and **data-driven sports analytics**.  
+I'm a Computer Science Junior at Case Western Reserve University, focusing on **Software Engineering**, **AI/ML**, and **data-driven sports analytics**.  
 I love building real-world products and using machine learning to uncover insights on many different things.
 
 ---
